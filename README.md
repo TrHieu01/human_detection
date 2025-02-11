@@ -6,5 +6,5 @@
 ## Yêu Cầu Hệ Thống  
 - Ngôn ngữ lập trình: Python  
 - Thư viện cần thiết: ultralytics
-![ảnh]([https://imgur.com/a/WsWjTrB](https://imgur.com/JP4fDmg))
+![ảnh](https://imgur.com/JP4fDmg)
 
