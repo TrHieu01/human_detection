@@ -6,4 +6,4 @@
 ## Yêu Cầu Hệ Thống  
 - Ngôn ngữ lập trình: Python  
 - Thư viện cần thiết: ultralytics
-
+![img](https://github.com/TrHieu01/human_detection/blob/dd5a90c27f80b3c3aa723ca878edc23fd415140d/2.png)
