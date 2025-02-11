@@ -7,3 +7,4 @@
 - Ngôn ngữ lập trình: Python  
 - Thư viện cần thiết: ultralytics
 ![img](https://github.com/TrHieu01/human_detection/blob/dd5a90c27f80b3c3aa723ca878edc23fd415140d/2.png)
+![img1](https://github.com/TrHieu01/human_detection/blob/91803b5213b60b18b8695dafef02a98c5a068b19/4.png)
